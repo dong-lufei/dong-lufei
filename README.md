@@ -7,6 +7,7 @@
 
 ![Static Badge](https://img.shields.io/npm/v/npm.svg?logo=npm)
 
-[![我的技术栈](https://skillicons.dev/icons?i=html,css,sass,svg,tailwind,bootstrap,jquery,js,ts,webpack,vite,vue,react,redux,nodejs,deno,express,graphql,threejs,electron,dart,flutter,go,py,java,vscode,idea,git,md,github,gitlab,stackoverflow,docker,supabase,vercel,cloudflare,mysql,mongodb,postgres,redis,sqlite,prisma,linux,vim,neovim,androidstudio,c,cpp,qt,babel,postman,fastapi,ps,pr,codepen)](https://skillicons.dev)
+# 📚我的技术栈
+[![我的技术栈](https://skillicons.dev/icons?i=html,css,sass,svg,tailwind,bootstrap,jquery,js,ts,webpack,vite,vue,react,redux,nodejs,deno,express,graphql,threejs,electron,dart,flutter,go,py,java,vscode,idea,git,md,github,gitlab,stackoverflow,docker,supabase,vercel,cloudflare,mysql,mongodb,postgres,redis,sqlite,prisma,linux,vim,neovim,androidstudio,c,cpp,qt,babel,postman,fastapi,codepen,ps,pr)](https://skillicons.dev)
 
 > nuxtjs,nextjs,nestjs,d3,alpinejs,astro,tauri,solidjs,svelte,zig
