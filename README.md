@@ -3,3 +3,5 @@
 <img  alt="dino.gif"  src="https://github.com/dong-lufei/dong-lufei/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-lufei&langs_count=10&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dong-lufei&repo=github-readme-stats)](https://github.com/dong-lufei/github-readme-stats)
